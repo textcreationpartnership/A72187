@@ -1,0 +1,906 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Heavens speedie hue and cry sent after lust and murder manifested upon the suddaine apprehending of Thomas Shearwood, and Elizabeth Evans, whose manner of lives, death, and free confessions, are heere expressed : also some new additions, concerning the man that was tide [sic] to the gibbeit, with a discovery of those places where such kinds of lude people haunt and resort ... disclosed by this Sherwood a little before his death : who were executed the one upon the 14 and the other on the 17 of this moneth of April 1635 ... / written by H.G. their daily visiter at the time of their imprisonment, and severall dayes of execution ; published by authority.</title>
+            <author>Goodcole, Henry, 1586-1641.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1615</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72187</idno>
+            <idno type="STC">STC 12010.5</idno>
+            <idno type="STC">ESTC S5237</idno>
+            <idno type="EEBO-CITATION">39960707</idno>
+            <idno type="OCLC">ocm 39960707</idno>
+            <idno type="VID">150481</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72187)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150481)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1068:9 or 1946:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Heavens speedie hue and cry sent after lust and murder manifested upon the suddaine apprehending of Thomas Shearwood, and Elizabeth Evans, whose manner of lives, death, and free confessions, are heere expressed : also some new additions, concerning the man that was tide [sic] to the gibbeit, with a discovery of those places where such kinds of lude people haunt and resort ... disclosed by this Sherwood a little before his death : who were executed the one upon the 14 and the other on the 17 of this moneth of April 1635 ... / written by H.G. their daily visiter at the time of their imprisonment, and severall dayes of execution ; published by authority.</title>
+                  <author>Goodcole, Henry, 1586-1641.</author>
+               </titleStmt>
+               <extent>[24] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by N. &amp; I. Okes, dwelling in Well-yard in little St. Bartholomews, neare unto the Lame Hospitall gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1635.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes frontispiece showing hanging scene.</note>
+                  <note>Signatures: [unsigned]4, B-C4.</note>
+                  <note>Imperfect: stained and with print show-through.</note>
+                  <note>Incorrectly identified as STC 12010 on reel 1068:9.</note>
+                  <note>Reproductions of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sherwood, Thomas, d. 1635.</term>
+               <term>Evans, Elizabeth, d. 1635.</term>
+               <term>Murder --  England --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150481:1" rendition="simple:additions"/>
+            <p>HEAVENS
+SPEEDIE
+Hue and Cry ſent after <hi>Luſt</hi>
+and <hi>Murther.</hi>
+            </p>
+            <p>Manifeſted upon the ſuddaine apprehending
+of <hi>Thomas Shearwood,</hi> and <hi>Elizabeth Evans,</hi>
+whoſe manner of <hi>Lives, Death,</hi> and free
+<hi>Confeſſions,</hi> are heere <hi>expreſſed.</hi>
+            </p>
+            <p>Alſo ſome new Additions, concerning the man that was
+tide to the Gibbeit, with a diſcovery of thoſe places
+where ſuch kindof lude people haunt and reſort
+unto, and by what ſignes and tokens you may
+diſcover them: diſcloſed by this <hi>Sherwood</hi>
+a little before his death.</p>
+            <p>Who were Executed the one upon the 14. and the
+other on the 17. of this Moneth of <hi>April</hi> 1635.
+neere to the place where the facts were
+committed, and he now hangeth
+in chaines at <hi>Ring-Croſſe.</hi>
+            </p>
+            <p>
+               <hi>Written by</hi> H. G. <hi>their daily Uiſiter, at the</hi> time of their
+Impriſonment, and ſeverall dayes of Execution.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>
+               <hi>LONDON:</hi>
+Printed by <hi>N.</hi> and <hi>I. Okes,</hi> dwelling in <hi>Well-yard</hi> in lit<g ref="char:EOLhyphen"/>tle
+St. <hi>Bartholmews,</hi> neare unto the <hi>Lame
+Hoſpitall</hi> gate, 1635.</p>
+         </div>
+         <div type="law">
+            <pb facs="tcp:150481:2"/>
+            <pb facs="tcp:150481:2"/>
+            <p>IF one ſmite another with an Inſtrument of Iron, that hee
+Dye, hee is a <hi>Murderer,</hi> and the <hi>Murderer</hi> ſhall dye the
+Death. Or if hee ſmite him with an hand-weapon of wood
+whereby hee may be ſlayne, if hee dye, hee is a <hi>Murderer,</hi>
+and the Murderer ſhall dye the Death. <hi>Numb. 35. v.</hi> 16.</p>
+            <p>
+               <figure>
+                  <figDesc>two figures hanging off gallows poles</figDesc>
+                  <p>Countrey-Tom. Canberry Beſse.</p>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>weapon</figDesc>
+                  <p>The forme of the inſtrument of wood and iron that he uſed to hurt with.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:150481:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:150481:3"/>
+            <pb facs="tcp:150481:4"/>
+            <head>The Preface.</head>
+            <p>I Havereſumed my Pen which I reſolved in this Nature for
+ever to be ſilent: But the Common good, and preſervation
+of my Countries welfare, incites me unto this officious ſer<g ref="char:EOLhyphen"/>vice.
+As one that ſtandeth Centinell in the Night unto
+whom Fidelity and Truſt is repoſed, and the ſafety of the whole
+<hi>Army</hi> dependeth: (Even ſo am I) to diſcover the private and
+ſuddaine approaching of the Enemies. Like a Watchman to ob<g ref="char:EOLhyphen"/>ſerve
+all commers in and out, into the Gates of the City, to un<g ref="char:EOLhyphen"/>vaile
+pernicious paſſengers, which dayes and nights unceſſantly
+paſſe through the Streets, and in the ſecret corners of the ſame
+privily lurke, and watch an opportunity to <hi>cozen, rob,</hi> and
+<hi>murther.</hi> I preſume not to inſtruct the <hi>prudent</hi> and <hi>wiſe,</hi> that
+were abſurde and ridiculous: But the Levell of my intention is
+to make the vulgar <hi>Ignorants</hi> ſo wiſe, as to walke warily and
+circumſpectly; which plaine path they may knowingly ſee, and
+diſcerne by this ſequent diſcovery of ſuch notorious offenders,
+that live upon the ſpoyles of ſuch <hi>Paſſengers,</hi> and <hi>Travellers</hi> re<g ref="char:EOLhyphen"/>ſorting
+up unto <hi>London</hi> upon their neceſſary affaires. A new
+kind of invented wickedneſſe, and fearefull miſchiefe, but I
+hope by Gods mercy, and the late exemplary Juſtice, ſtrangled
+in the birth, is the Narration of <hi>Country Tom,</hi> and <hi>Beſſe</hi> of <hi>Can<g ref="char:EOLhyphen"/>berry,</hi>
+ſo termed by thoſe of their baſe diſpoſition. A woman, Oh
+ſhame unto her modeſt tender Sexe! to become a ſetter, or ſet on
+ſuch a brazen face, that upon a man unknowne unto her, ſhee
+ſeazeth in the open Streets, and with her deceitfull ſmiles, and
+ſalutes, ſo inchants, and incaptivates, and leads him unto <hi>ſlaugh<g ref="char:EOLhyphen"/>ter.</hi>
+Like a decoy Ducke, ſhee is alone going abroad, but not a<g ref="char:EOLhyphen"/>lone
+returning, aſſociated with multitudes homeward: The bar<g ref="char:EOLhyphen"/>gaine
+ſhee ſtrikes up, and goeth before, to a ſecret appointed
+place, upon whom unawares, to the ſeduced perſon, attendeth
+a mercileſſe ſtrong <hi>Theefe,</hi> and moſt barbarous cruell <hi>Murthe<g ref="char:EOLhyphen"/>rer,</hi>
+that at once ſtrikes and ſlayes: of whoſe cunning practices,
+ſecret ſnares, and ſubtil wiles I labour to give all people a light
+and true inſight; <hi>God Almighty</hi> give it a bleſſing unto his good
+pleaſure and thy benefit, unto whom I am thy true profeſſed
+friend during the time of my mortality.</p>
+            <closer>
+               <signed>H. G.</signed>
+            </closer>
+         </div>
+         <div type="Scriptural_laws">
+            <pb facs="tcp:150481:4"/>
+            <head>Certaine pregnant inducements, out of
+the Holy Scripture againſt murder and
+Man-ſlaughter</head>
+            <list>
+               <item>THe firſt is, the direct words of Gods Commandements,
+thou ſhalt not kill. Exod. 20.</item>
+               <item>WHo ſo ſheddeth mans blood, by man ſhall his
+blood be ſhed. For in the image of God hath hee
+made Man. Gen. 9. 6.</item>
+               <item>HE alſo that killeth any Man, he ſhall ſurely bee put
+to Death. Leviticus 24. 17.</item>
+               <item>YEE are of your Father the Divell, and the luſts of
+your father you will doe: He hath been a Murderer
+from the beginning, &amp;c. Ioh. 8.</item>
+               <item>IF any kill with the ſword, hee muſt bee killed by the
+ſword: Here is the patience and the faith of the Saints.</item>
+            </list>
+            <p>And therefore,</p>
+            <list>
+               <item>LEt all bitterneſſe, and anger, wrath, and evill ſpea<g ref="char:EOLhyphen"/>king
+be put away from you, with all maliciouſneſſe.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="confession">
+            <pb facs="tcp:150481:5"/>
+            <head>THE EXAMINATION AND
+Confeſſion of Thomas Sher wood,
+and Elizabeth Evans.</head>
+            <p>
+               <seg rend="decorInit">B</seg>EFORE I enter into the liſtes of the en<g ref="char:EOLhyphen"/>ſuing
+Relation, there are of theſe two
+moſt miſerable Catifes, remarkeable
+Obſervations in their ſeverall lives: (lives
+did I ſay?) to ſay ſo I doe groſly miſtake; for al<g ref="char:EOLhyphen"/>though
+they were living, yet then dead they were
+in moſt foule and abhominable ſins, and clamorous
+crimes, that ſent hot purſuit after them at all times,
+and in all places without intermiſſion, to ſweepe
+them from off the face of the earth.</p>
+            <div n="1" type="observation">
+               <head>The Obſervations.</head>
+               <p>1.<note place="margin">Note.</note> Firſt, what a viperous brood of Sinnes were in<g ref="char:EOLhyphen"/>gendred,
+conceived, and brought forth by theſe
+Monſters Male and Female: what a Chaine of ſins
+is heere linked, and twiſted one to each other.</p>
+               <p>2. Secondly, the Stygmaticall marke that <hi>Heaven</hi>
+did ſet upon them both in their two ſeverall names.
+1. Firſt, Idleneſſe the indulgent Mother, cannot ſhe
+is ſo indigent of her ſelfe, be able to give bread, or
+cloathing to her pampered and poyſoned little ones
+in youth with Sloth, but like a curſt Step-mother
+ſends them out of doores, to ſeeke bread in deſolate
+places.</p>
+               <p>2.<note place="margin">The Origi<g ref="char:EOLhyphen"/>nall of all vi<g ref="char:EOLhyphen"/>ces.</note> Secondly, Sloth or Idleneſſe ſcornes to worke,
+eſpecially with the hands, for that is not gentilelike:
+yet worke they ſee they muſt for neceſſities ſake, &amp;
+and a maſter they have at hand, (the Devill) that
+ſafely as they ſuppoſe, ſetteth them on worke.</p>
+               <p>3. Thirdly, from Sloth ſpringeth forbidden Theft.</p>
+               <p>
+                  <pb facs="tcp:150481:5"/>
+4. Fourthly, fro<g ref="char:cmbAbbrStroke">̄</g> Theft ſpringeth beaſtly Luſt.</p>
+               <p>5. Fiftly, from filthy Luſt they lanch out
+into the deepe, to Blood-ſhed and Murder.</p>
+               <p>6. Finally, thus by degrees they finiſh their
+deſtruction, and the full Cup of Gods heavy
+wrath and diſpleaſure, forcibly they drinke
+up.</p>
+            </div>
+            <div n="2" type="observation">
+               <head>2. Obſervation.</head>
+               <p>On both their Names, behold what a
+Brand is ſet on them by <hi>Heaven:</hi> high ſcorne
+and derifion; periſhing before they periſhed,
+forgotten before they were dead: For by
+the Names of <hi>Countrey-Tom,</hi> and <hi>Canberry<g ref="char:EOLhyphen"/>Beſſe,</hi>
+they were knowne unto the World:
+The honeſt Stocke, and Parents from which
+they deſcended, forgetting, and denying.
+<hi>Scripture</hi> ſaith, <hi>The memoriall of the wicked ſhal
+periſh: Let him be wiped out of the Booke of Re<g ref="char:EOLhyphen"/>membrance,
+and that, becauſe his minde was
+not to doe good.</hi> Thus with them.</p>
+               <list>
+                  <item>of God.
+<list>
+                        <item>No feare</item>
+                        <item>No thought</item>
+                        <item>No care</item>
+                        <item>No love</item>
+                     </list>
+                  </item>
+               </list>
+               <p>And therefore for them,</p>
+               <list>
+                  <item>No memory,</item>
+                  <item>No loſſe,</item>
+                  <item>No place of Buriall,</item>
+                  <item>No mourning, to ſay, Alas my Brother,
+or alas my Siſter.</item>
+               </list>
+            </div>
+            <div type="narration">
+               <pb facs="tcp:150481:6"/>
+               <head>The narration of the manner of the
+courſe of their lives.</head>
+               <p>AS they confeſſed, their Names were
+<hi>Thomas Sherwood,</hi> and <hi>Elizabeth Evans,</hi>
+the one borne in <hi>Stafford-ſhire,</hi> there brought
+up by his Parents, a laborious Husbandman:
+The other borne in <hi>Shropſhire,</hi> of a very good
+parentage deſcended, who carefully for her
+good education, and future preferment, ſent
+her up unto <hi>London,</hi> to ſome friends, who
+ſetled her in a good ſervice, as ſhee confeſſed
+at her Death: But unfortunately it happened,
+that ſhee grew acquainted with a young man
+in <hi>London,</hi> who tempted her unto folly, and
+by that ungodly act her ſuddain ruine inſued.</p>
+               <p>By reaſon of ſuch her folly, her Friends
+failed, and frowned on her: Oh unnaturall
+blemiſh! thus to forſake, caſt off, and for<g ref="char:EOLhyphen"/>get
+their owne deare fleſh, all meanes of live<g ref="char:EOLhyphen"/>lyhood
+failing, her left thus deſtitute, and
+out of all, credit, friends, money, apparrell,
+and ſervice: A baſe looſe courſe of life ſhee
+reſolves on, and therein as ſhee freely con<g ref="char:EOLhyphen"/>feſſed,
+continued the ſpace of 4. yeares, un<g ref="char:EOLhyphen"/>till
+at laſt ſhee unhappily happened to get in<g ref="char:EOLhyphen"/>to
+familiarity and acquaintance with this
+<hi>Countrey-Tom,</hi> otherwiſe <hi>Thomas Sherwood;</hi>
+with whom ſhe conſtantly accompanied day
+<pb facs="tcp:150481:6"/>
+and night for the terme of a yeare, or there a<g ref="char:EOLhyphen"/>bouts.
+And having obtained ſuch a mate fit
+for his owne humour and inclination, ſecret<g ref="char:EOLhyphen"/>ly
+theſe two combin'd, reſolv'd, and put in
+practice their new invented myſterie of Ini<g ref="char:EOLhyphen"/>quity,
+as followeth.</p>
+               <p>Whenſoever they went forth out of their
+Lodgings, they ſevered not themſelves, but
+kept within ſight one of another alwayes,
+both hunting for one prey; and frequenting
+and watching ſuch places, and houſes, for
+perſons fitted for their occaſion, and to make
+uſe of.</p>
+               <list>
+                  <item>The places they
+reſorted unto,
+<list>
+                        <item>1 To Play-houſes.</item>
+                        <item>2 To Tavernes.</item>
+                        <item>3 To Innes.</item>
+                        <item>4 To Ale-houſes.</item>
+                        <item>5 To the open Streetes.</item>
+                        <item>6 To the Fields.</item>
+                     </list>
+                  </item>
+               </list>
+               <p>If by chance they did meete with one that
+had beene that day too buſie with the Pot,
+ſuch an one was fiſh for their Net: then the
+brazen-face Strumpet preſently claimes ac<g ref="char:EOLhyphen"/>quaintance,
+that ſhe knew him of long time,
+whoſe face ſhe never ſaw before; and ſo far<g ref="char:EOLhyphen"/>ther
+into familiar diſcourſe, and complements
+they proceed, that further courteſies are deſi<g ref="char:EOLhyphen"/>red,
+and promiſed in ſome ſecret place, to
+paſſe betweene them. This new gueſt, and
+<pb facs="tcp:150481:7"/>
+acquaintance thus taken up in the way by her,
+away ſhe haſtens with her prize, and carries
+him unto the Chambers of death: As wit<g ref="char:EOLhyphen"/>neſſe
+the Murthering by ſuch her ſlights, theſe
+Gentlemen of great Note, and good quality,
+Eminent in place and ſubſtance, Maſter <hi>Row<g ref="char:EOLhyphen"/>land
+Holt</hi> a Merchant, and Cittizen of <hi>London,</hi>
+whom they murthered in <hi>Clarkenwell</hi> fields,
+in <hi>Ianuary</hi> laſt paſt: Likewiſe Maſter <hi>Thomas
+Claxton</hi> Gentleman, a Lieutenant, in <hi>Grayes
+Inne-fields,</hi> the firſt of this inſtant <hi>April,</hi> 1635.
+Alſo to another Gentleman, whom they rob<g ref="char:EOLhyphen"/>bed
+of his Cloake and Hat, by name Maſter
+<hi>Michael Lowe,</hi> at the pitch of the Hill going
+downe to <hi>Hockley Hole</hi> in <hi>Clarkenwell</hi> Pariſh,
+at which place they gave him his Deaths
+wound, and had not ayde upon his out-cry
+haſtily come upon them, they had without
+doubt ſlaine him; but within one quarter of a
+yeare afterwards Maſter <hi>Michael Lowe</hi> dyed
+of the ſame wound in his Head then by <hi>Coun<g ref="char:EOLhyphen"/>trey
+Tom,</hi> ſo forcibly ſtrooke, that Maſter <hi>Low</hi>
+did then very narrowly eſcape bleeding to
+death.</p>
+            </div>
+            <div type="confession">
+               <head>The free Confeſſion of Thomas Sherwood,
+after the time of his apprehending.</head>
+               <p>TWo Moneths, and two Weekes were
+compleatly expired, before it could bee
+<pb facs="tcp:150481:7"/>
+knowne what barbarous hand had acted that
+acinorous Fact on the body of Maſter <hi>Row
+and Holt</hi> found dead, and with blowes very
+much bruiſed.</p>
+               <p>This Hound of Hell, that did this cruell mur<g ref="char:EOLhyphen"/>ther,
+fleſht thus, greedily ſeeketh for more
+<hi>Mans</hi> fleſh, and thirſteth afreſh after more
+blood. He thought, that in that little ſpace
+<hi>God,</hi> and the <hi>People</hi> had forgotten Mr. <hi>Holts</hi>
+blood, as himſelfe had; who ſecurely againe
+ſtarts out, and he with his conſtant miſchie<g ref="char:EOLhyphen"/>vous
+Companion, to their damnable former
+reſolutions in all Impieties, putteth on the
+habit, that now to kill a man, (tuſh) it is not
+worth the talking of, or taking of notice
+as ſo it may be conjectured of them; who in
+ſo ſhort a ſpace, to the firſt murder added the
+ſecond, the places both of them being with
+in the ſight of each other, which might de<g ref="char:EOLhyphen"/>terre
+them from ſuch their unnaturall and un<g ref="char:EOLhyphen"/>godly
+intention and determination, from the
+ſhedding of more innocent blood.</p>
+               <p>Upon <hi>Wedneſday</hi> at Night, in <hi>Eaſter</hi> weeke
+laſt paſt, 1635. about the houre of <hi>Nine,</hi> theſe
+two inhumane Creatures did meete about
+the Kings Gate which is by <hi>Blomesberry,</hi> a
+pproper coſtly apparrelled Gentleman, Ma<g ref="char:EOLhyphen"/>ſter
+<hi>Thomas Claxton,</hi> a Souldier, and Lieute<g ref="char:EOLhyphen"/>nant,
+who that day and time that this Mon<g ref="char:EOLhyphen"/>ſter
+of her Sexe interchanged diſcourſe, and
+<pb facs="tcp:150481:8"/>
+with familiar complements (oh lamentable to
+ſpeake) had drunke to much,<note place="margin">The form his weapon which lay ſe<g ref="char:EOLhyphen"/>cretly in his breeches.</note> as theſe two
+vild wretches confeſſed.</p>
+               <figure/>
+               <p>Words paſt betwixt Maſter <hi>Claxton</hi> and
+that Harlot <hi>Beſſe</hi> of <hi>Canberry,</hi> together thoſe
+two goe, but who followed them both, the
+poore Gentleman was altogether ignorant,
+and little ſuſpected; After them both <hi>Coun<g ref="char:EOLhyphen"/>trey
+Tom</hi> haſteneth, with a ſhort Trunchin, or
+Baſtinado under his cloake, and findes com<g ref="char:EOLhyphen"/>panying
+together his Harlot with Maſter
+<hi>Claxton,</hi> whom ſhe had treacherouſly tray<g ref="char:EOLhyphen"/>ned
+into <hi>Grayes Inne</hi> fields, a ſtones caſt wide
+from the High-way, where what they did,
+I ſo charitably am opinionated of the decea<g ref="char:EOLhyphen"/>ſed
+Gentleman, that to their ſlanderous ca<g ref="char:EOLhyphen"/>lumniations,
+and traducings concerning him,
+I give not the leaſt credence. For thoſe to
+beleeve, whoſe hands were ſo foully ſtained
+with blood, their breath unworthy to blaſt
+the good name, or brand the good that the
+world conceived of the reputation of ſuch a
+Gentleman as M<hi rend="sup">r</hi>. <hi>Claxton</hi> was. Inhumanely
+with a ſhort Trunchin of Iron which <hi>Sher<g ref="char:EOLhyphen"/>wood</hi>
+carried under his cloake by his bloody
+polluted hands, with this weapon he inſtant<g ref="char:EOLhyphen"/>ly
+deprived maſter <hi>Claxton</hi> of life, and after
+that done, they both fell to riſhing the poc<g ref="char:EOLhyphen"/>kets,
+and uncivilly ſtrip, (all humanity laying
+a ſide) the body bare and naked, and in that
+<pb facs="tcp:150481:8"/>
+manner left it, and ſo fled away.</p>
+               <p>When he had recollected his diſtracted thoughts
+and throbbing hard heart, within two houres after,
+(as he ſayd) hee return'd unto the place, to behold
+that ſad ſpectacle of maſter <hi>Claxtons</hi> ſlaughtered bo<g ref="char:EOLhyphen"/>dy,
+who (as he ſaid) was not ſlaine out-right, for he
+heard him ſleepe and ſnore, and that he had turned
+himſelfe on his Belly after he left him; and had not
+the winde taken his wounds, he might very well have
+beene recovered unto health. But perceiving life was
+extinct in him, flight is become the chiefeſt comfort,
+and refuge: Shee flyeth to her old acquainted lodg<g ref="char:EOLhyphen"/>ing,
+at St. <hi>Giles</hi> in the fields, and he taketh his courſe
+another way.</p>
+               <p>The Morning enſuing, betimes hee diſpatcheth a
+ſpeedy meſſenger unto his Copartner in miſchiefe,
+appointing his matchleſſe Mate to meete with him
+forthwith in <hi>Moore-fields,</hi> which according unto his
+appointment, ſhe did at the place, and time by him
+prefixed. And obſerve how thither hee commeth
+with his underſtanding ſo infatuated by the irefull
+Judge of <hi>Heaven,</hi> that with the apparrell he commeth
+on his backe that morning, of the Gentlemans whom
+he ſlew the Night before, and waite was layd for ſuch
+faſhioned apparrell, which he wore, and profered to
+ſell in <hi>Houndſditch</hi> ſo inconſiderately, ſuddainly was
+apprehended. Preparation he was making to travell
+downe into the Countrey: For he bought a new Pe<g ref="char:EOLhyphen"/>ticoate
+for her that dearely earned it; and he profe<g ref="char:EOLhyphen"/>red
+unto Sale the Apparrell which hee never bought,
+nor paid for; to put himſelfe into money like wiſe, to
+beare both their charges for their intended journey.</p>
+               <p>But as <hi>Equity</hi> and <hi>Iuſtice</hi> commanded, they both
+<pb facs="tcp:150481:9"/>
+together were apprehended, and by the Authority
+of Magiſtracy preſently ſent unto <hi>Newgate,</hi> unto
+whom thither an induſtrious, judicious, and diſcreet
+Gentleman Maſter <hi>Long,</hi> a Commiſſioner of the
+Peace, in the County of <hi>Middleſex,</hi> frequently re<g ref="char:EOLhyphen"/>ſorted,
+and tooke there their ſeverall Examinati<g ref="char:EOLhyphen"/>ons
+ſo carefully, punctually, and truely, that both
+the Malefactors out of their owne mouthes, againſt
+themſelves confeſſed the ſame, totally iuſt: I touch
+here but briefly upon them; for I intended not at all
+<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>omention much of their confeſſions, for feare my
+brevity ſhould wrong, or intrench upon his prudent
+diſcuſſion and politicke inſinuations into them, by
+which forcibly he diſcovered all their Villanies, and
+made the truth apparant.</p>
+               <p>There was a great Rumour ſpread, that this <hi>Sher<g ref="char:EOLhyphen"/>wood</hi>
+had ſlaine divers perſons elſe, beſides M<hi rend="sup">r</hi>. <hi>Clax<g ref="char:EOLhyphen"/>ton,</hi>
+and Mr. <hi>Holt,</hi> as the woman at <hi>Lambeth,</hi> that was
+ſlaine in her houſe the laſt Winter, a Child alſo; for
+which two were executed, all theſe are but flying
+Tales. To give therefore the <hi>World</hi> ſatisfaction, I
+have here ſet downe his free and voluntary confeſſi<g ref="char:EOLhyphen"/>on
+of ſuch perſons he ſlew, which he confirmed at his
+Death: beſides many great Robberies he was guilty
+of, whereof maſter <hi>Long</hi> hath his free confeſſion.</p>
+               <p>The day of his conviction, I heard it in the <hi>Seſſions
+yard</hi> reported, that <hi>Sherwood</hi> had ſlaine a Gentleman
+maſter <hi>Michael Low,</hi> whoſe Father was ſometimes
+<hi>Lord Maior</hi> of <hi>London,</hi> and himſelfe of late collated
+into the place of Secondary in the Counter of <hi>Wood<g ref="char:EOLhyphen"/>ſtreete.</hi>
+               </p>
+               <p>I was entreated by maſter <hi>Lowes</hi> friends to be in<g ref="char:EOLhyphen"/>ſtant
+with <hi>Sherwood,</hi> to diſcover if he could, the per<g ref="char:EOLhyphen"/>ſon
+<pb facs="tcp:150481:9"/>
+that robbed and wounded him. His Anſwer con<g ref="char:EOLhyphen"/>cerning
+that unto me, was thus; that he knew the par<g ref="char:EOLhyphen"/>ties
+that did it, and if I would at Night repaire unto
+to him, he would really make them knowne unto me.</p>
+               <p>Hereupon I addreſſed my ſelfe unto maſter <hi>Long,</hi>
+and acquainted him what I had done, and that, as I
+ſuſpected by my diſcourſe with <hi>Sherwood,</hi> that hee
+could not be guiltleſſe of the Robbing of maſter <hi>Low.</hi>
+That very Evening although late, maſter <hi>Long</hi> went
+to <hi>Sherwood</hi> to <hi>Newgate,</hi> where, there as at his death,
+he ſayd, hee with <hi>Elizabeth Evans</hi> Robbed maſter
+<hi>Lowe</hi> of his Hat and Cloake by the Lady <hi>Hattons</hi> wall
+about <hi>Michaelmas</hi> Terme laſt: and further ſaid, hee
+thought that the wounds hee then gave him in his
+Head with this Inſtrument, or the like, was the cauſe
+of his death: which generally is ſo voted, becauſe
+he died within a quarter of a yeare with an Impoſtu<g ref="char:EOLhyphen"/>mation
+in his Head, the wound being cured, but in<g ref="char:EOLhyphen"/>wardly
+rankl'd and feſtred. For money, he ſaid, hee
+tooke none at all from him, for that day a little be<g ref="char:EOLhyphen"/>fore
+he had delivered up all his money unto his Ser<g ref="char:EOLhyphen"/>vant.</p>
+               <p>Freely he confeſſed the muthering of Maſter <hi>Row<g ref="char:EOLhyphen"/>land
+Holt</hi> in <hi>Clarkenwell</hi> fields: The murthering of
+Maſter <hi>Thomas Claxton</hi> in <hi>Grayes Inne</hi> fields, and rob<g ref="char:EOLhyphen"/>bing
+and wounding of Maſter <hi>Michael Lowe</hi> by the
+Lady <hi>Hattons</hi> wall: Beſides, guilty of many Notori<g ref="char:EOLhyphen"/>ous
+Felonies and Robberies, committed in <hi>Middle<g ref="char:EOLhyphen"/>ſex,</hi>
+to a great number. Further, diſcovering many
+baſe perſons of his condition, and the diſperſed pla<g ref="char:EOLhyphen"/>ces
+of ſecret harbouring ſuch unprofitable obnoxi<g ref="char:EOLhyphen"/>ous
+members unto a State and Common-wealth.</p>
+            </div>
+            <div type="speech">
+               <pb facs="tcp:150481:10"/>
+               <head>At the place of his Execution, and what
+he there ſaid, the Relation.</head>
+               <p>THere was no profite at all in his life time to his
+Countrie, but in his Diſcoverie and Death, I
+hope ſome uſe, and good ſervice unto the Countrie
+may redound. His aſſociates, I hope, ſhall be bani<g ref="char:EOLhyphen"/>ſhed,
+which he hath branded, and with them, their
+Receivers and Harbourers. His Death and hanging
+up now in chaines, an example to deterie others not
+ſo to offend, which I pray God give ſuch a bleſſing
+to all the people. <hi>Amen</hi>
+               </p>
+               <p>Being brought unto the place of his <hi>Death,</hi> he there
+minded nothing elſe, but how to dye, deſiring of the
+people that they would not preſſe him unto further con<g ref="char:EOLhyphen"/>feſſions,
+to debarre his <hi>Soule</hi> of better meditations, but
+to reſt ſatisfied with his confesſions, which he had made
+unto Maſter <hi>Long</hi> and my ſelfe, and nothing elſe but
+truth conteined in them, confirmed by a ſerious aſſeve<g ref="char:EOLhyphen"/>ration
+proceeding then out of his mouth. This done hee
+turned himſelfe towards the people, ſpeaking unto
+them, and praying for them very hartily, withall ad<g ref="char:EOLhyphen"/>moniſhing
+all that did ſee him that day, to beware of
+<hi>Whores, for they were the worſt Company in the
+World,</hi> wiſhing all to beware by his fall, and not to
+bee ſeduced, or blind-fold led, as hee was by ſuch be<g ref="char:EOLhyphen"/>witching
+Creatures, to irrevocable ruine. In the
+<hi>Poſture</hi> of his <hi>Body,</hi> hee expreſſed true <hi>Humility,</hi>
+for all the time of Prayer, he prayed kneeling. In his
+Prayers unto <hi>God,</hi> he expreſſed an unexpected ferven<g ref="char:EOLhyphen"/>cy
+by theſe words, and ſhort eiaculations unto <hi>Hea<g ref="char:EOLhyphen"/>vens</hi>
+mercy ſeat, ſenſibly feeling the heavy Burden of
+<pb facs="tcp:150481:10"/>
+his <hi>Sinnes,</hi> moſt hartily implored, at the hands of
+<hi>Almighty God,</hi> his mercy and forgiveneſſe for them
+I will doe him this right, to expreſſe the Ardency of his
+<hi>Soule,</hi> when the word Mercy was uttered: this Eia<g ref="char:EOLhyphen"/>culation
+from his owne mouth proceeded, the hearing of
+the word <hi>Mercy,</hi> was ſweet and ſavory unto his ſorrow
+full <hi>Soule,</hi> for in the great anguiſh of <hi>Soule</hi> he prayed,
+and onely relyed ſaying thus: <hi>O Lord my ſinnes are
+ſo haynous, great and many, if thy Mercy helpe me
+not, what will become hereafter of my poore Soule.</hi>
+To that I flye unto, and onely truſt thy mercy did ſave the
+whole World of ſinners, and Lord I hope my great ſins
+cannot exceed thy great mercies. After theſe ſpeeches
+hee returnes with Hearty requeſts unto <hi>God</hi> to for<g ref="char:EOLhyphen"/>give
+him his harnous ſinnes: Hee beſeeched all the
+People that were there preſent, all to forgive him, whom
+he had offended, and to ioyne with him in harty prayes
+unto the <hi>Almighty</hi> in his behalfe, to forgive him, and
+to receive his <hi>Soule</hi> to mercy.</p>
+               <p>After theſe holy exerciſes accompliſhed, the firſt
+part of the 51. <hi>Pſalme</hi> was ſung, and after that by his
+requeſt was ſung the <hi>Lamentation of a ſinner.</hi> That
+ended, I asked him if hee was willing to dye, to which
+hee made anſwere, moſt welcome death was
+unto him; for all the while he lived, his life was as a
+kinde of Hell unto him, and moſt uncomfortable. But
+his death he ioyfully embraced, and mortall life cheer<g ref="char:EOLhyphen"/>fully
+did ſurrender up, and ſent his ſoule out of his
+Body flying, calling on the name of the Lord Ieſus to
+receive him. And all the people ſpeaking to God for
+him, likewiſe with their lowd voyces, and ſtrong ac<g ref="char:EOLhyphen"/>clamations,
+<hi>Lord Jeſu</hi> take mercy on him, ſweete
+<hi>Jeſu</hi> forgive his ſinnes, and ſave his <hi>Soule.</hi>
+               </p>
+               <p>
+                  <pb facs="tcp:150481:11"/>
+Hereendeth the Narration of <hi>Thomas Sherwood,</hi> who now
+hangeth in Chaines at Battle-bridge, neare Pancras Church.</p>
+            </div>
+            <div type="observation">
+               <head>A briefe obſervation for all perſons, both in
+Citty and Countrey, to know lewd tempting perſons
+lurking in the Streets and High-wayes, by
+theſe tokens following.</head>
+               <p>FIrſt, if they be Cheaters, looke if they bee not
+Gentile-like cloathed: then if they intice you to
+play at Cards or Dice for a Pot of Beere, or Pint
+of Wine, beware of ſuch, and if by ſuch tricks you
+chance to be deluded, take notice of that houſe.</p>
+               <p>Secondly, if a Woman in the day time comple<g ref="char:EOLhyphen"/>ments
+with you, and ſends after you, a meſſenger to
+ſay, that one would ſpeake with you, beware of ſuch.</p>
+               <p>Thirdly, take heed of ſuch as boldly ſtand at their
+doores to intice you, or ſay, ſome Friend is in their
+houſes that would ſpeake with you: that is a true to<g ref="char:EOLhyphen"/>ken
+of ſome enſuing miſchiefe, to picke your poc<g ref="char:EOLhyphen"/>ket,
+and to bring you unto an Harlot.</p>
+               <p>Fourthly, if any Woman meete you late in the eve<g ref="char:EOLhyphen"/>ning,
+to aske of you what time of the Night it is, then
+watch over your purſe and perſon, that your pocket
+be not pick't.</p>
+               <p>Fiftly, if a Woman come unto you alone, with in<g ref="char:EOLhyphen"/>ticing
+faire promiſes of Curtezan courteſies, to meete
+you in the Fields, or ſome other private remote pla<g ref="char:EOLhyphen"/>ces,
+remember the caſe of M<hi rend="sup">r</hi>. <hi>Claxton,</hi> and M<hi rend="sup">r</hi>. <hi>Holt.</hi>
+               </p>
+               <p>Sixtly, remember the Suburbian places, where
+theſe abhominable Creatures attend their prey, by
+day and night.</p>
+               <p>This hath beene often confeſſed by thoſe who haue uſed
+the ſame courſe, and dyed for ſome of theſe facts.</p>
+            </div>
+            <div type="document">
+               <pb facs="tcp:150481:11"/>
+               <head>An intimation of ſuch places, in, and about
+the City of London, that Harlots watch their op<g ref="char:EOLhyphen"/>portunities
+to ſurpriſe men, confeſſed
+by this Malefactor.</head>
+               <p>FIrſt, at <hi>Weſt Smithfield</hi> within the Railes, and
+<hi>Duck-lane end.</hi>
+               </p>
+               <p>Second, and thirdly, by the Tavernes in <hi>Smithfield,</hi>
+and Cookes ſhops in Pye-corner, and Cloath-faire,
+a great harbor for ſuch.</p>
+               <p>Fourthly, by <hi>Smithfield</hi> Pond, and ſheepe-pens.</p>
+               <p>Fiftly, by the little conduit in <hi>Cheapſide</hi> in the evening
+Sixtly, St. <hi>Antholins</hi> Church when the ſhops are
+ſhut up.</p>
+               <p>Seventh, and laſtly, remember <hi>London-bridge,</hi> o<g ref="char:EOLhyphen"/>ver
+which you muſt neceſſarily travell into the Sou<g ref="char:EOLhyphen"/>therne
+parts: Beware you goe not by Night with a
+cloak-bag, but in your hand, nor behind you on horſ<g ref="char:EOLhyphen"/>backe,
+leſt you be iuſtled againſt the wall by a cut<g ref="char:EOLhyphen"/>purſe
+in the habite of a Gentleman and ſo loſe it: Be<g ref="char:EOLhyphen"/>ware
+likewiſe of your Hat and Purſe in a fray ſtirred
+up purpoſely in the ſtreete, to allure people into con<g ref="char:EOLhyphen"/>curſions,
+in plaine to ſpeake, Pick-pockets deceite,
+and coſenage. In <hi>Middl.</hi> towards <hi>Pancras Church,</hi> in
+the fields: At <hi>Cow-croſſe</hi> towards the Butchers, at
+<hi>Bloomesberry</hi> in St. <hi>Giles</hi> in the fields, beware of ſuch
+like offenders; and ſo much of my advertiſment unto
+all paſſengers comming in, and going out of the Sub<g ref="char:EOLhyphen"/>urbs
+of the Citty of <hi>London.</hi>
+               </p>
+               <p>Likewiſe at this Seſſions, there were executed for coyning
+of Six-pences, and Shillings, two <hi>French-men</hi> and an <hi>Engliſh<g ref="char:EOLhyphen"/>man,</hi>
+who were drawne and hanged for that fact of Treaſon; a
+iuſt reward for ſuch wicked perſons, that uſurpe the Kings Roy<g ref="char:EOLhyphen"/>all
+prerogative.</p>
+            </div>
+            <div type="narration">
+               <pb facs="tcp:150481:12"/>
+               <head>Now to the particular Narration of Elizabeth
+Evans the impious Fellow-mate of
+Thomas Sherwood.</head>
+               <p>COncerning her, I have very little matter offered to
+dilate; I found this <hi>Sherwood</hi> and her ſo different
+in their ſeverall confeſſions unto me, that I wonderfully
+admired, that two alwaies unſeparable in ſuch proſecu<g ref="char:EOLhyphen"/>tions
+of euill, ſhould be ſo contradictory one unto each
+other. But I eaſily reconciled the doubt, in the particu<g ref="char:EOLhyphen"/>lar
+obſervation in their two ſeverall manners of dying.</p>
+               <p>A Woman ſhe was that died, for whoſe weake and ti<g ref="char:EOLhyphen"/>merous
+Sexe ſake, ſomething muſt bee allowed tollera<g ref="char:EOLhyphen"/>ble:
+Yet ſomething I found in her worthy of note, at
+the time of her confeſſion, a perfect hate, and excla<g ref="char:EOLhyphen"/>mation
+againſt all Theeves, which cauſed her deſtructi<g ref="char:EOLhyphen"/>on.
+And furthermore in ſigne of ſuch her deteſtation,
+of ſuch unholy courſes, proceeded from her mouth a moſt
+ſerious requeſt unto all then preſent aſſembled, adviſing
+all poore ſimple women to marry an honeſt man, though
+but a Ragge-gatherer, rather then a lewd man or a
+Theefe, rendring the reaſon of ſuch her earneſt admo<g ref="char:EOLhyphen"/>nition,
+becauſe an honeſtman may make an evil woman
+turne from her evill waies, but it was hard for an euill
+man, to make a wicked woman good, with divers other
+admonitions to the wonder of the ſlanders by, conſidering
+what a life ſhee had lived in.</p>
+            </div>
+            <div type="commentary">
+               <pb facs="tcp:150481:12"/>
+               <head>Concerning what ſhee ſaid at the place
+of Execution.</head>
+               <p>ONe thing ſhee here expreſſed very remarkable, concerning
+her old Companion in Miſchiefe, <hi>Thomas Shearwood;</hi>
+who on Candlemas day laſt preſſed amongſt the Jurers, at
+the <hi>Chriſtopher</hi> Taverne in Turnmill Street <hi>alias</hi> Turnebull
+Street to view the dead Corps of Maſter <hi>Rowland Holt,</hi> by him
+murthered, <hi>Sherwoods</hi> Noſe immediatly guſhed out with ſuch
+iſſues of blood, that he feared there by to be diſcovered, and re<g ref="char:EOLhyphen"/>turning
+unto her ſaid, I have ſuffered ſuch a thing this day
+about Maſter <hi>Holt,</hi> wee muſt of neceſſity, leave of this courſe
+of life.</p>
+               <p>I found her with the feares of Death very much perplexed
+and amazed, diſtractively caſting her eyes here, and there, at
+laſt ſhee eſpies the high Elmes neere which place Maſter
+<hi>Claxton</hi> was ſlaine, and fetcht a deepe ſigh and ſaid, would
+to God I had never ſeene that place. I found both <hi>Shear<g ref="char:EOLhyphen"/>woods,</hi>
+and her Confeſſion to agree both in the Murthering of
+Maſter <hi>Holt,</hi> Maſter <hi>Claxton,</hi> and Maſter <hi>Low,</hi> onely
+they differed, in the ſtriping of Maſter <hi>Claxton;</hi> for <hi>Shear<g ref="char:EOLhyphen"/>wood</hi>
+in the receiving of the bleſſed Body and Blood of Jeſus
+Chriſt with her, then affirmed to her face, that ſhe helped
+him, for to take Maſter <hi>Claxtons</hi> cloathes off, ſhe there
+confidently, denyed the ſame, and confirmed at her Death,
+whereunto as alſo unto other baſe aſperſions on the dead, I
+give no credence, thus of her who died very penitent, and after
+her execution was conveied to Barber Surgions Hal for a <hi>Skele<g ref="char:EOLhyphen"/>ton</hi>
+having her bones reſerved in a perfect forme of her body
+which is to beſeene, and now remaines in the aforeſaid Hall; of
+whom I hope, God did take mercy.</p>
+            </div>
+            <div type="admonition">
+               <pb facs="tcp:150481:13"/>
+               <head>A generall Admonition.</head>
+               <p>DEare Countrey men, what I have heere done, is intended
+for a generall good, Cautionary for all.</p>
+               <list>
+                  <item>1. Parents. 2. Children.</item>
+                  <item>3. Maſters. 4. Servants.</item>
+               </list>
+               <list>
+                  <item>1 Parents, caſt not off your Children, neither leave them to
+ſhift in the wilde world in their Youth, knowing how ſubiect
+Youth is unto temptation, and to be ſeduced in the times of
+neceſſitie, and extreame want.</item>
+                  <item>2 Children, obey your earthly Parents: unto ſuch as obey,
+God hath promiſed his two-fold bleſſing: firſt, Life tempo<g ref="char:EOLhyphen"/>rall:
+Secondly, Life eternall.</item>
+                  <item>3 Maſters terreſtriall, be good to your earthly Servants,
+knowing yee have all one Maſter, which is <hi>Chriſt</hi> in Heaven,
+that ſhall one day judge you for the good and evill yee have
+done.</item>
+                  <item>4 Servants, obey your earthly Maſters, and the Maſters autho<g ref="char:EOLhyphen"/>rity
+is knowne by obedience to their Commandments: Who<g ref="char:EOLhyphen"/>ſoever
+reſiſteth, receiveth the greater condemnation.</item>
+               </list>
+               <p>One thing more I will commend unto you, the mo<g ref="char:EOLhyphen"/>deſty
+of a milke-woman, in finding him naked cove<g ref="char:EOLhyphen"/>reth
+him with her approne.</p>
+            </div>
+            <div type="conclusion">
+               <head>CONCLUSION.</head>
+               <l>Thy God feare to offend,</l>
+               <l>To him doe dayly pray,</l>
+               <l>He will thee ſend an happy end,</l>
+               <l>And live with him for aye.</l>
+            </div>
+            <div type="commentary">
+               <pb facs="tcp:150481:13"/>
+               <head>The Habeas corpus, or Remove of Countrey
+Tom into the Countrey.</head>
+               <p>
+                  <hi>GOod Reader,</hi> to the preceedent, give leave to adde
+theſe ſucceeding true Relations: Since the exe<g ref="char:EOLhyphen"/>cution
+of the horrid and unheard of paire of Murde<g ref="char:EOLhyphen"/>rers,
+the Coy-duck, or divelliſh allurer to ſinne and
+confuſion, was diſſected, and her dryed Carkaſe or
+Sceleton of Bones and Griſtles is reſerv'd, in propor<g ref="char:EOLhyphen"/>tion
+to be ſeene in <hi>Barber Surgeons Hall.</hi>
+               </p>
+               <p>As for the diſmall accompliſher of her damned
+plots, hee was hang'd in Chaines neere <hi>Pancras</hi>
+Church, being a iuſt reward for his vile attempts.</p>
+               <p>One thing of note I here ſpeake of; Two Gentle<g ref="char:EOLhyphen"/>men
+comming early in a Morning that way, were a<g ref="char:EOLhyphen"/>ſtoniſhed
+at a ſad obiect, committed by a company
+of villaines: Oh pitty! ſtill running on to more miſ<g ref="char:EOLhyphen"/>chiefe,
+having ſuch a fearefull ſpectacle before
+their eyes as <hi>Countrey Tom,</hi> which ſhould rather
+have frighted and hindred them from doing this
+bold and inſolent act upon a Butcher comming that
+way, though late; who ſaid only thus, that it was no
+matter if all ſuch rogues were ſerv'd ſo, which words
+when theſe lurking villaines heard, preſently ſeized
+on him, and tooke his cloathes, and bound him na<g ref="char:EOLhyphen"/>ked
+to the Gibbet with a gagge in his mouth, bid<g ref="char:EOLhyphen"/>ding
+him watch the Coarſe: but as this poore man
+ſaid, he loſt no money; becauſe he had a little be<g ref="char:EOLhyphen"/>fore
+beſtowed it other wayes; and thus he was ham<g ref="char:EOLhyphen"/>per'd
+by a curſed crue, who lurked there-abouts for
+their prey.</p>
+               <p>
+                  <pb facs="tcp:150481:14"/>
+But this was not the reaſon of his remoove; for
+the adjoyning Inhabitants much damnified and an<g ref="char:EOLhyphen"/>noyed
+by his hanging there, laboured and obtained
+the ſame. And indeed the chiefeſt cauſe, was the
+ſpoile and depopulating the growing fields there a<g ref="char:EOLhyphen"/>bouts,
+ſtript of all fences; and the graſſe trodden
+downe, and made levell by the infinite confluence of
+all ſexes from all parts, which cauſed the Farmer
+and thoſe that tooke grounds, to petition to the
+King and Councell for redreſſe, who out of pitty
+and compaſſion, graciouſly granted the <hi>Habeas cor<g ref="char:EOLhyphen"/>pus,</hi>
+and remove of the ſaid murdering Monſter
+which (to avoid confuſion of Spectators) they per<g ref="char:EOLhyphen"/>formed
+in the Night, carrying the hated ſpectacle
+to the place aſſigned them, to the Ring-croſſe be<g ref="char:EOLhyphen"/>yond
+<hi>Iſlington:</hi> where thoſe that are not yet ſatisfi<g ref="char:EOLhyphen"/>ed,
+may ſee <hi>Country Tom</hi> got farther into the Coun<g ref="char:EOLhyphen"/>trey.</p>
+               <p>Thrice remov'd, firſt to <hi>Grayes Inne-fields,</hi> next
+neere <hi>Pancras,</hi> laſt, to <hi>Ring-croſſe,</hi> to paralell his
+baſe inhumane Murders in divers diſtinct places.</p>
+               <q>
+                  <l>—Nec enim lex iuſtior ulla,</l>
+                  <l>Quam necis artifices arte perire ſuâ.</l>
+               </q>
+               <q>
+                  <p>Sceletos, quaſi cadaver aſſicatum, eſt oſſium corporis
+humani invicem cohoerentium univerſarum univer<g ref="char:EOLhyphen"/>ſa
+compactio.</p>
+               </q>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:150481:14"/>
+               <pb facs="tcp:150481:15"/>
+               <pb facs="tcp:150481:15"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
